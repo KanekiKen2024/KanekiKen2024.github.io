@@ -22,3 +22,5 @@ notAlternative = true
 enable = true
 delimiters.block = [["\\[", "\\]"], ["$$", "$$"]]
 delimiters.inline = [["\\(", "\\)"], ["$", "$"]]
+[markup.goldmark.renderer]
+unsafe = true
