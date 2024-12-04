@@ -7,16 +7,16 @@
 menu:
   - name: home
     url: ""
-    icon: # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
+    icon: f0c2 # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
   - name: archives
     url: "archives"
-    icon:
+    icon: f0c2
   - name: about
     url: "about"
-    icon:
+    icon: f0c2
   - name: friend
     url: "friend"
-    icon:
+    icon: f0c2
 
 mainSections: ["post"]
 # 年，月，日及时间的格式化样式
@@ -70,7 +70,7 @@ footer:
   count: true
   busuanzi: true
   icon:
-    url: "../images/taichi.png" # this path is relative to the css/style.css, so it needs to go up one level to reach the images folder
+    url: "" #"../images/taichi.png" # this path is relative to the css/style.css, so it needs to go up one level to reach the images folder
     rotate: true
     mask: true # whether to use the images as a mask
 

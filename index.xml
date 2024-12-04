@@ -9,18 +9,18 @@
     <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://kanekiken2024.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hello World</title>
+      <link>https://kanekiken2024.github.io/post/hello/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0800</pubDate>
+      <guid>https://kanekiken2024.github.io/post/hello/</guid>
+      <description>&lt;p&gt;明日之后&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>关于</title>
       <link>https://kanekiken2024.github.io/about/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0800</pubDate>
       <guid>https://kanekiken2024.github.io/about/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>明日之后</title>
-      <link>https://kanekiken2024.github.io/post/hello/</link>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 +0800</pubDate>
-      <guid>https://kanekiken2024.github.io/post/hello/</guid>
-      <description>&lt;p&gt;&lt;embed frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=330 height=86 src=&#34;https://music.163.com/outchain/player?type=2&amp;id=1321385595&amp;auto=1&amp;height=66&#34;&gt;&lt;/embed&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>友情链接</title>
